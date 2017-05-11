@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
+require './lib/new_read'
 
-require "bundler/setup"
-require "config/environment"
+NewRead::CLI.new.call

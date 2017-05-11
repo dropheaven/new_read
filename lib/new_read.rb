@@ -1,5 +1,6 @@
-require "new_read/version"
-require_relative '../config/environment'
-
-module NewRead
-end
+require_relative './daily_deal/version'
+require './new_read/command_line_interface'
+require './new_read/scraper'
+require './new_read/book'
+require './new_read/author'
+require './new_read/genre'
