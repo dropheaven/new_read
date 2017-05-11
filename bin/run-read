@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
 require "bundler/setup"
-require "new_read"
+require "config/environment"
