@@ -1,8 +1,6 @@
 # NewRead
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/new_read`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Welcome to New Read! This CLI gem will help users find some of the best books ever written. Whether you are into fiction, non-fiction, or both, New Read will recommend you a book within said category. Or just ask for a random pick and New Read will give supply you at random. 
 
 ## Installation
 
@@ -38,4 +36,3 @@ Bug reports and pull requests are welcome on GitHub at https://github.com/[USERN
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
