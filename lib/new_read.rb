@@ -1,4 +1,4 @@
-require_relative './daily_deal/version'
+require_relative './new_read/version'
 require './new_read/command_line_interface'
 require './new_read/scraper'
 require './new_read/book'
